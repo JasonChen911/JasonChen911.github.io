@@ -1,0 +1,11 @@
+import{c as r,j as e,L as i}from"./main-DEJLnZ6P.js";import{R as a,C as n}from"./Reveal-zQlFT8Yy.js";import{r as c}from"./release.generated-CnGZK0CU.js";import{A as t}from"./arrow-up-right-DqiliQcY.js";/**
+ * @license lucide-react v0.294.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const o=r("ArrowLeft",[["path",{d:"m12 19-7-7 7-7",key:"1l729n"}],["path",{d:"M19 12H5",key:"x3x0zl"}]]);/**
+ * @license lucide-react v0.294.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const x=r("Clock3",[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["polyline",{points:"12 6 12 12 16.5 12",key:"1aq6pp"}]]),d=[{title:"学习与记忆",items:["接入 FSRS 间隔重复，按四级反馈调整单词复习安排。","在学习页解释为什么今天需要复习这个词。","加入拼写、填空、游戏化练习和错词管理。"]},{title:"AI 辅助",items:["三位 AI 导师支持独立对话与本机历史记录。","AI 阅读可保存生成的文章、题目与题型，并可逐条删除。","从本地材料提取重点词汇，确认后生成词书。"]},{title:"桌面体验",items:["优化启动检测与前端资源校验。","加入可选背景、深色模式和发音设置。","提供 Windows 安装程序及 Ubuntu 24.04 x64 测试包。"]}];function N(){return e.jsxs("section",{className:"changelog-page container",children:[e.jsxs(a,{children:[e.jsx("span",{className:"eyebrow",children:"Release notes"}),e.jsxs("h1",{children:["每一步改进，",e.jsx("br",{}),e.jsx("em",{children:"都有迹可循。"})]}),e.jsx("p",{children:"以下记录当前 Beta 构建中已经实现的功能，不包含尚未上线的计划。"})]}),e.jsxs("div",{className:"timeline",children:[e.jsx("div",{className:"timeline-rail"}),e.jsxs(a,{className:"release-entry",children:[e.jsx("div",{className:"release-marker"}),e.jsxs("div",{className:"release-meta",children:[e.jsxs("span",{className:"release-badge",children:[e.jsx("span",{})," 当前构建"]}),e.jsxs("h2",{children:["v",c.version," Beta"]}),e.jsxs("p",{children:[e.jsx(x,{size:15})," 本地版本配置读取"]})]}),e.jsx("div",{className:"release-groups",children:d.map(s=>e.jsxs("div",{children:[e.jsx("h3",{children:s.title}),e.jsx("ul",{children:s.items.map(l=>e.jsxs("li",{children:[e.jsx(n,{size:16}),e.jsx("span",{children:l})]},l))})]},s.title))})]})]}),e.jsxs(a,{className:"changelog-actions",children:[e.jsxs(i,{to:"/download/",className:"button button-primary",children:["获取当前版本 ",e.jsx(t,{size:16})]}),e.jsxs(i,{to:"/",className:"text-link",children:[e.jsx(o,{size:15})," 返回首页"]})]})]})}export{N as default};

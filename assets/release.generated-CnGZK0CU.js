@@ -1,0 +1,1 @@
+const s="0.1.0",e="WordMaster_v0.1.0_20261105.zip",t="https://pan.baidu.com/s/1m0mQUDGmkbKahWUpZGoLsQ?pwd=cqgj";const a="ca5891b6fba287701162027def686ec1126b64005a40b12145c4002604d48654",l={version:s,installerFile:e,externalUrl:t,installerBytes:56397869,sha256:a};export{l as r};
